@@ -9,6 +9,7 @@ Installation
 
 Go to: \Steam\steamapps\common\Team Fortress 2\tf\custom\YOUR_OWN_HUD_FOLDER  // I personally use "hud"
 Copy and paste the materials, resource, and scripts folders there. 
+
 =======
 Images
 =======
