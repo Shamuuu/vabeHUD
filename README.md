@@ -1,7 +1,7 @@
 vabeHUD
 =======
 
-My personally edited HUD, based on omp // almost every file has been changed
+My personally edited HUD, based on omp *// almost every file has been changed*
 
 
 Installation
@@ -17,4 +17,4 @@ Images
 If you would like to see images, before you install the HUD go ahead check them out http://imgur.com/a/6nWHA
 
 
-Shout-out to [b]Doodle[/b] for helping me out whenever I've got stucked.
+Shout-out to **Doodle** for helping me out whenever I've got stucked.
