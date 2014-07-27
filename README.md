@@ -17,4 +17,4 @@ Images
 If you would like to see images, before you install the HUD go ahead check them out http://imgur.com/a/6nWHA
 
 
-Shoutout for helping me out whenever I've got stucked: Doodle. 
+Shout-out to [b]Doodle[/b] for helping me out whenever I've got stucked.
