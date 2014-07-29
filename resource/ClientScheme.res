@@ -3188,6 +3188,16 @@ Scheme
 				"outline"	"0"
 			}
 		}
+		"CrossHairKonrWings"
+		{
+			"1"
+			{
+				"name"		"Garm3nFont"
+				"tall"		"18"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
 	}
 
 	//
@@ -5111,6 +5121,11 @@ Scheme
 		{
 			"font" "resource/fonts/Montserrat-Regular.otf"
 			"name" "Montserrat-Regular"
+		}
+		"14" 
+		{
+			"font" "resource/fonts/Garm3nFont.ttf"
+			"name" "Garm3nFont"
 		}
 	}
 }
