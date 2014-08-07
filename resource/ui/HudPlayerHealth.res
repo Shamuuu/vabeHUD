@@ -73,7 +73,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"FuturaHeavy36"
-		"fgcolor"		"OmpHP"
+		"fgcolor"		"vabeHealth"
 	}								
 	"PlayerStatusHealthValueShadow"
 	{

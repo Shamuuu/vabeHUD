@@ -25,6 +25,13 @@ Scheme
 		"vabeTransp"		"0 206 209 120"
 		"vabeFont"			"200 200 200 255"
 		
+		"vabeDamage"		"0 255 255 255"
+		"vabeHealth"		"255 255 255 255"
+		"vabeAmmoInClip"	"255 255 255 255"
+		"vabeAmmoInReserve"	"120 255 120 255"		//127 255 0 255
+		"vabeAmmoNoclip"	"255 255 255 255"
+
+		
 		
 		// omp colours
 		"OmpText"			"255 255 255 255"
@@ -66,15 +73,16 @@ Scheme
 		
 		//Changes the colors of the bars on the "Stats" tab
 		
-			"StatBar1"						"15 255 255 128"
-			"StatBar2"						"15 225 225 128"
-			"StatBar3"						"15 195 195 128"
-			"StatBar4"						"15 165 165 128"
-			"StatBar5"						"15 135 135 128"
-			"StatBar6"						"15 105 105 128"
-			"StatBar7"						"15 85 85 128"
-			"StatBar8"						"15 65 65 128"
-			"StatBar9"						"15 45 45 128"
+		"StatBar1"						"15 255 255 128"
+		"StatBar2"						"15 225 225 128"
+		"StatBar3"						"15 195 195 128"
+		"StatBar4"						"15 165 165 128"
+		"StatBar5"						"15 135 135 128"
+		"StatBar6"						"15 105 105 128"
+		"StatBar7"						"15 85 85 128"
+		"StatBar8"						"15 65 65 128"
+		"StatBar9"						"15 45 45 128"
+			
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"

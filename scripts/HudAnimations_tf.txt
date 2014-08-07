@@ -227,8 +227,8 @@ event HudHealthBonusPulseStop
 	StopEvent HudHealthBonusPulse 0.0
 	StopEvent HudHealthBonusPulseLoop 0.0
 
-	Animate PlayerStatusHealthValue		FgColor		"255 255 255 255"	Linear 0.0	0.0
-	Animate	PlayerStatusHealthValueSpec		FgColor		"255 255 255 255"	Linear 0.125 0.075
+	Animate PlayerStatusHealthValue		FgColor		"vabeHealth"	Linear 0.0	0.0
+	Animate	PlayerStatusHealthValueSpec		FgColor		"vabeHealth"	Linear 0.125 0.075
 }
 
 //===========================================
@@ -293,9 +293,9 @@ event HudLowAmmoPulseStop
 	StopEvent HudLowAmmoPulse 0.0
 	StopEvent HudLowAmmoPulseLoop 0.0
 
-	Animate AmmoInClip		FgColor		"255 255 255 255"		Accel 0.0 0.0
-	Animate AmmoInReserve	FgColor		"127 255 0 255"	Accel 0.0 0.0
-	Animate AmmoNoClip		FgColor		"255 255 255 255"		Accel 0.0 0.0
+	Animate AmmoInClip		FgColor		"vabeAmmoInClip"		Accel 0.0 0.0
+	Animate AmmoInReserve		FgColor		"vabeAmmoInReserve"		Accel 0.0 0.0
+	Animate AmmoNoClip		FgColor		"vabeAmmoNoclip"		Accel 0.0 0.0
 }
 
 //===========================================

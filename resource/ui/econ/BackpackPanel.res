@@ -177,7 +177,47 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
-	
+	"NameFilterLabel"			
+    {			
+        "ControlName"       "CExLabel"			
+        "fieldName"         "NameFilterLabel"			
+        "font"              "HudFontSmallestBold"			
+        "labelText"         "#Store_NameFilterLabel"			
+        "textAlignment"     "west"			
+        "xpos"              "c+137"			
+        "ypos"              "0"			
+        "zpos"              "1"			
+        "wide"              "90"			
+        "tall"              "20"			
+        "autoResize"        "1"			
+        "pinCorner"         "0"			
+        "visible"           "1"			
+        "enabled"           "1"			
+        "fgcolor"           "vabeFont"			
+    }    	
+			
+    "NameFilterTextEntry"			
+    {			
+        "ControlName"        "TextEntry"			
+        "fieldName"          "NameFilterTextEntry"			
+        "xpos"               "c137"			
+        "ypos"               "15"			
+        "wide"               "90"			
+        "tall"               "19"			
+        "autoResize"         "0"			
+        "pinCorner"          "0"			
+        "visible"            "1"			
+        "enabled"            "1"			
+        "tabPosition"        "1"			
+        "textHidden"         "0"			
+        "editable"           "1"			
+        "unicode"            "0"
+	    "border_default"    "vabeBorder"
+        "fgcolor_override"   "vabeFont"			
+        "bgcolor_override"   "10 10 10 170"			
+        "paintbackgroundtype" "1"			
+        "font"                "HudFontSmallest"			
+    }
 	"SortByComboBox"
 	{
 		"ControlName"		"ComboBox"
