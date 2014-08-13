@@ -347,7 +347,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"c395"
+		"xpos"			"c267"				//c395
 		"ypos"			"-1"
 		"zpos"			"1"
 		"wide"			"32"
@@ -414,7 +414,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_Panel"
-		"xpos"			"c125"
+		"xpos"			"c-10"			//c125
 		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"300"
@@ -809,7 +809,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"c362"
+		"xpos"			"c234"				//c362
 		"ypos"			"-1"
 		"zpos"			"1"
 		"wide"			"32"
@@ -912,7 +912,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_Panel"
-		"xpos"			"c183"
+		"xpos"			"c57"				//c183
 		"ypos"			"28"				//28
 		"zpos"			"1"
 		"wide"			"210"
@@ -1750,7 +1750,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ConsButton"
-		"xpos"			"c395"
+		"xpos"			"c267"				//c395
 		"ypos"			"24"
 		"zpos"			"1"
 		"wide"			"32"

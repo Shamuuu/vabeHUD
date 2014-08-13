@@ -183,12 +183,8 @@
                 "ypos"                        "0"
                 "zpos"                        "5"
                 "wide"                        "50"
-                "wide_hidef"        "300"
-                "wide_lodef"        "300"
                 "tall"                        "19"
-                "tall_hidef"        "19"
-                "tall_lodef"        "22"
-                "visible"                "0"
+                "visible"                "1"
                 "enabled"                "1"
                 "labelText"                "%servertimeleft%"
                 "textAlignment"                "center"
@@ -202,10 +198,7 @@
                 "ControlName"                "CTFImagePanel"
                 "fieldName"                "ServerTimeLimitLabelBG"
                 "xpos"                        "9999"        [$WIN32]
-                "xpos"                        "9999"        [$X360]
                 "ypos"                        "9999"
-                "ypos_hidef"        "-100"        //off-screen
-                "ypos_lodef"        "-100"        //off-screen
                 "zpos"                        "1"
                 "wide"                        "78"
                 "tall"                        "20"
