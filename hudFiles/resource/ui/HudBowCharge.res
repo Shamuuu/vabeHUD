@@ -14,7 +14,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"BOW"
+		"labelText"				"CHARGE"
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
@@ -41,7 +41,7 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"	"OmpDarkBG"
+		"bgcolor_override"	"0 0 0 0"
 		"fgcolor_override"	"255 255 255 255"
 		
 		"xpos_minmode"			"50"

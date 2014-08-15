@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"FgColor_override" 		"200 200 200 255"
+		"FgColor_override" 		"vabeFont"
 		"bgcolor_override"		"10 10 10 240"
 		"paintbackgroundtype"	"1"
 		"settitlebarvisible"	""
@@ -117,7 +117,7 @@
 		"ypos"		"40"
 		"wide"		"480"
 		"tall"		"278"
-		"FgColor_override" "200 200 200 255"
+		"FgColor_override" "vabeFont"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -154,7 +154,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"200 200 200 255"
+			"fgcolor_override"	"vabeFont"
 			"wrap"			"1"
 		}
 	}	

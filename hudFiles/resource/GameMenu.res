@@ -30,7 +30,7 @@
 	}
 	"QuickplayButton"
 	{
-		"label" "Multiplayer" 
+		"label" "Quickplay" 
 		"command" "quickplay"
 		"subimage" "glyph_multiplayer"
 		"OnlyAtMenu" "1"

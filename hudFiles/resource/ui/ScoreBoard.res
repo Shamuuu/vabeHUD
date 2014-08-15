@@ -1531,6 +1531,42 @@
 			"visible"		"1"
 			"enabled"		"1"
 		}
+		"DamageLabel"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"DamageLabel"
+			"font"			"Futura9"
+			"fgcolor"		"OmpText"
+			"labelText"		"#TF_Scoreboard_Damage"
+			"textAlignment"	"west"
+			"xpos"			"460"
+			"ypos"			"24"	
+			"zpos"			"3"
+			"wide"			"95"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+		}
+		"Damage"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"Damage"
+			"font"			"Futura9"
+			"fgcolor"		"OmpText"
+			"labelText"		"%damage%"
+			"textAlignment"	"west"
+			"xpos"			"510"
+			"ypos"			"24"
+			"zpos"			"3"
+			"wide"			"35"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+		}
 	}
 
 	"ButtonLegendBG"		[$X360]
