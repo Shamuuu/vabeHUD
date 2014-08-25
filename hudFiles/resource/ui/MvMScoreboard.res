@@ -23,10 +23,10 @@
 		"labelText"		"%popfile%"
 		"textAlignment"	"west"
 		"xpos"			"110"
-		"ypos"			"84"
+		"ypos"			"97"
 		"wide"			"380"
 		"tall"			"50"
-		"fgcolor"		"OmpText"
+		"fgcolor"		"vabeFont"
 	}
 
 	"DifficultyContainer"
@@ -34,7 +34,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DifficultyContainer"
 		"xpos"			"500"
-		"ypos"			"84"
+		"ypos"			"97"
 		"wide"			"150"
 		"tall"			"50"
 		"visible"		"1"
@@ -64,7 +64,7 @@
 			"ypos"			"0"
 			"wide"			"150"
 			"tall"			"50"
-			"fgcolor"		"OmpText"
+			"fgcolor"		"vabeFont"
 		}
 	}
 	
@@ -199,6 +199,19 @@
 			"tall"			"60"
 			"wide"			"200"
 			"visible"		"1"
+		}
+		"RespecStatusLabel"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"RespecStatusLabel"
+			"font"			"HudFontSmall"
+			"labelText"		"%respecstatus%"
+			"textAlignment" "north-west"
+			"xpos"			"180"
+			"ypos"			"8"
+			"wide"			"220"
+			"tall"			"40"
+			"fgcolor"		"tanlight"
 		}
 	}
 }

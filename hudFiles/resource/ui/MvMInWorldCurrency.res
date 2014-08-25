@@ -58,7 +58,9 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"OmpDarkBG"
+		"paintbackground"	"1"
+		"border"	"vabeBorder"
+		"fillcolor" "10 10 10 120"
 	}
 	
 	"CurrencyLabel"
@@ -70,7 +72,7 @@
 		"xpos"			"5"
 		"ypos"			"0"
 		"zpos"			"3"
-		"wide"			"40"
+		"wide"			"50"
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
@@ -82,7 +84,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyGood"
-		"font"			"Futura20"
+		"font"			"Futura16"
 		"fgcolor"		"125 225 30 255"
 		"xpos"			"45"
 		"ypos"			"0"
@@ -99,7 +101,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyBad"
-		"font"			"Futura20"
+		"font"			"Futura16"
 		"fgcolor"		"225 30 30 255"
 		"xpos"			"45"
 		"ypos"			"0"
