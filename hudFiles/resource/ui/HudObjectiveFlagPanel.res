@@ -5,18 +5,36 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusFlagPanel"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"5"
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"1"
 		"enabled"			"1"
+		"border"			"noborder"
 		
 		"if_hybrid"
 		{
 			"zpos"			"-1"
 		}
 	}
+	"background"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"background"
+			"xpos"			"c-100"
+			"ypos"			"r40"
+			"zpos"			"1"
+			"wide"			"200"
+			"tall"			"35"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"Blank"
+			"border"		"vabeBorder"
+		}
+		
 	
 	"LeftSideBG"
 	{
@@ -68,6 +86,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fillcolor"		"10 10 10 120"
+			"border"		"noborder"
 		}
 	"RightSideBG"
 	{

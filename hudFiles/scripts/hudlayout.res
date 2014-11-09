@@ -652,6 +652,21 @@
 		"ItemFontPulsing"		"Default"
 
 	}
+	HudSpellMenu
+	{
+		"fieldName" "HudSpellMenu"
+		"visible" "1"
+		"enabled" "1"
+		"wide"	 "640"
+		"tall"	 "480"
+		"zpos" 	"2"
+		"xpos"			"130"
+		"ypos"			"r61"
+		
+		"TextFont"				"FuturaHeavy14"
+		"ItemFont"				"FuturaHeavy14"
+		"ItemFontPulsing"		"FuturaHeavy14"
+	}
 
 	HudCloseCaption
 	{
@@ -1426,6 +1441,16 @@
 		"wide"			"470"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
+	}
+	HudMiniGame
+	{
+		"fieldName" "HudMiniGame"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	"0"
+		"ypos"	"9"
+		"wide"	"f0"
+		"tall"	"480"
 	}
 
 	"OmpCrosshairPlus"

@@ -146,6 +146,10 @@
 		{
 			"image"		"../console/background_upward"
 		}
+		if_halloween_3
+		{
+			"image"		"../console/background_upward"
+		}
 		if_fullmoon
 		{
 			"image"		"../console/background_upward"
