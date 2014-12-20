@@ -19,7 +19,7 @@ Scheme
 		"White"				"255 255 255 255"
 		"OffWhite"			"255 255 255 255"
 		"DullWhite"			"80 80 80 80"
-		"Orange"			"135 206 250 200"
+		"Orange"			"0 191 255 255"
 		"TransparentBlack"		"30 30 30 160"
 		"Black"				"0 0 0 255"
 
@@ -107,7 +107,7 @@ Scheme
 		Menu.TextColor					"White"
 		Menu.BgColor					"0 0 0 214"
 		Menu.ArmedTextColor				"Black"
-		Menu.ArmedBgColor				"Orange"
+		Menu.ArmedBgColor				"0 191 255 255"
 		Menu.TextInset					"6"
 
 		Panel.FgColor					"Blank"

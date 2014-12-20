@@ -2,16 +2,16 @@
 {
 	"HudChat"
 	{
-		"ControlName"		      "EditablePanel"
-		"fieldName" 		      "HudChat"
-		"visible" 		        "1"
-		"enabled" 		        "1"
-		"xpos"			          "1"
-		"ypos"			          "370"
-		"wide"	 		          "242"
-		"tall"	 		          "110"
-		"fgcolor"		"Garm3nWhite"
-		"PaintBackgroundType"	"2"
+		"ControlName"		     "EditablePanel"
+		"fieldName" 		     "HudChat"
+		"visible" 		       	 "1"
+		"enabled" 		         "1"
+		"xpos"			         "1"
+		"ypos"			         "370"
+		"wide"	 		         "242"
+		"tall"	 		         "110"
+		"fgcolor"					"vabeFont"
+		"PaintBackgroundType"		"2"
 	}
 
 	ChatInputLine
@@ -62,7 +62,7 @@
 		"enabled"		          "1"
 		"labelText"		        ""
 		"textAlignment"		    "south-west"
-		"font"			          "ChatFont"
+		"font"			          "Futura11"
 		"maxchars"		        "-1"
 	}
 }
